@@ -1,4 +1,5 @@
 Exploratory Data Analysis (EDA) is the process of finding out all the data we have in detail, such as looking at patterns, trends, or checking our assumptions about our data. This process needs to be done before we process our data into insights or build models.
+
 There are several things we need to know from our data, such as:
 1. Number of rows/records and columns/variables/features
 2. Data type for each column
